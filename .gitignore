@@ -1,0 +1,25 @@
+# Build artifacts
+target/
+
+# Cargo files
+Cargo.lock
+Cargo.toml
+
+# Rustup files
+.rustup/
+
+# IntelliJ files
+*.iml
+*.rs.bk
+
+# Visual Studio Code files
+.vscode/
+
+# IntelliJ and Rust plugins
+.idea/
+
+# Rustfmt files
+*.toml
+
+# Rust-generated files
+.DS_Store
